@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+data/user_rules.json
+*.xls
+*.xlsx
+data/user_rules.json
